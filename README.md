@@ -1,5 +1,5 @@
 # Binder Usage
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qixin5/binder_usage/master)
 
 Used for testing [Binder](https://mybinder.org/).
